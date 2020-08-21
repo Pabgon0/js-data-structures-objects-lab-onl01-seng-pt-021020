@@ -1,4 +1,4 @@
-
+const drive = {}
 
 function updateDriverWithKeyAndValue(driver, key, value) {
    driver[key] = value;
